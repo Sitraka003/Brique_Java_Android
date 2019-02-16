@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Brique</string>
+    <string name="txtLog">Login / mot de passe</string>
+    <string name="idNom">Nom</string>
+    <string name="txtNom">Entrer votre nom</string>
+    <string name="idMdp">Mot de passe</string>
+    <string name="txtMdp"></string>
+    <string name="idBtn">Valider</string>
+    <string name="txtBienvenue">Bienvenue</string>
+    <string name="idjouer">Jouer</string>
+    <string name="idMs">esaai</string>
+    <string name="txtScore">Score:</string>
+    <string name="txtErr" />
+    <string name="txtScore2">Score</string>
+    <string name="txtRebours">Rebours</string>
+    <string name="btnBalle">Ajouter balle</string>
+    <string name="btnInsc">Inscription</string>
+    <string name="txtInsc">Inscription</string>
+    <string name="txtNomInsc">Nom</string>
+    <string name="txtMdpInsc">Mot de passe</string>
+    <string name="btnVal">Valider</string>
+</resources>
